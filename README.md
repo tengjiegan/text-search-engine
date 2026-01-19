@@ -1,4 +1,4 @@
-# Text Search Engine
+# 🔍 Text Search Engine
 
 ## Description
 
